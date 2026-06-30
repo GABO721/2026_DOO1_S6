@@ -34,5 +34,5 @@ Este proyecto trata de una aplicación de consola desarrollada en java para la a
 
 ---
 
-**Repositorio GitHub:** https://github.com/GABO721/2026_DOO1_Exp1.6
+**Repositorio GitHub:** https://github.com/GABO721/2026_DOO1_Exp2.6
 **Fecha de entrega:** 29/06/2026
