@@ -1,4 +1,4 @@
-# Actividad Sumativa Exp2 Semana 6 – DOO I
+# Actividad Formativa Exp2 Semana 6 – DOO I
 - **Nombre completo:** Gabriel Alejandro Gomez Pizarro
 - **Carrera:** Analista Programador Computacional
 - **Sección:** 001A
